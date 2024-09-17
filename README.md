@@ -1,4 +1,4 @@
-# npm Documentation
+### npm Documentation
 
 [![Publish](https://github.com/npm/documentation/actions/workflows/publish.yml/badge.svg)](https://github.com/npm/documentation/actions/workflows/publish.yml)
 
